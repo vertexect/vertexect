@@ -1,4 +1,3 @@
-Okay, here's the English translation of your project description:
 
 # VertexEct & NuMetaVerse - Powered by Vertexect
 
